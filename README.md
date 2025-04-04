@@ -34,10 +34,11 @@ To get started with the Server-Client-Chat-Application, follow these steps:
 The project structure is organized as follows:
 
 - `src/`: Contains the source code for the application.
-- `resources/`: Includes resource files such as images, stylesheets, and other assets.
-- `lib/`: External libraries and dependencies required by the project.
+- `images/`: Includes image files such as screenshots and Wireshark packet traces.
+- `.idea/`: Contains project-specific settings and configurations.
+- `LICENSE`: The license file for the project.
 - `README.md`: The main documentation file for the project.
-
+  
 ## Images
 <details>
 <summary>Wireshark Packet Tracing Configurations</summary>
@@ -79,3 +80,7 @@ Currently, there are no specific contributing guidelines available for this repo
 
 ## License
 This project is licensed under the MIT License. For more details, refer to the `LICENSE` file in the repository.
+
+## Special Thanks
+Special thanks to the following contributor(s) for their efforts and contributions to the project:
+- [Ziad Hamdy](https://github.com/ZiadHamdyMohamed)
