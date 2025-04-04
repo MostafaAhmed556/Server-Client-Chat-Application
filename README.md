@@ -3,6 +3,14 @@
 ## Overview
 **Server-Client-Chat-Application** is a Java-based application designed to facilitate communication between a server and multiple clients. This repository contains the source code and resources required to run the chat application.
 
+<summary>Server Thread Ready State</summary>
+
+![Server Thread Ready State](Images/Milestone%201%20Complete.png)
+
+<summary>Chat Between Client and Server</summary>
+
+![Chat Between Client and Server](Images/MileStone%202%20Complete.png)
+
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Getting Started](#getting-started)
@@ -58,20 +66,6 @@ The project structure is organized as follows:
 <summary>Full Packet Content</summary>
 
 ![Full Packet Content](Images/3.png)
-
-</details>
-
-<details>
-<summary>Chat Between Client and Server</summary>
-
-![Chat Between Client and Server](Images/MileStone%202%20Complete.png)
-
-</details>
-
-<details>
-<summary>Server Thread Ready State</summary>
-
-![Server Thread Ready State](Images/Milestone%201%20Complete.png)
 
 </details>
 
